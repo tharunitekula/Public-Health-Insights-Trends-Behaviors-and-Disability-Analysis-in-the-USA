@@ -18,7 +18,7 @@ Behavioral Health Insights Dashboard: Analysis of mental health trends and their
 Disability Insights Dashboard: Examination of disability prevalence across races, age groups, and genders highlighting disparities.
 Chronic Disease Impact Dashboard: Identification of states with highest chronic disease burdens and associated risk factors.
 Health Trends Over Time Dashboard: Visualization of changes in behavioral factors and chronic conditions from 2018 to 2023.
-
+link for dashboard: [Public-Health-Insights-Trends-Behaviors-and-Disability-Analysis-in-the-USA](https://public.tableau.com/app/profile/tharuni.tekula/viz/Public-Health-Insights-Trends-Behaviors-and-Disability-Analysis-in-the-USA/Disability?publish=yes)
 **Tools Used:**
 **Tableau:** Creation of interactive dashboards and storytelling through data visualization
 **Microsoft Excel:** Data cleaning, formatting, integration, and preparation for analysis
